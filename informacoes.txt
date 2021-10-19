@@ -1,0 +1,3 @@
+- Node não compreende a linguagem de typescript, portanto precisamos sempre do compilador ts-dev-node para "traduzir"
+
+- 
